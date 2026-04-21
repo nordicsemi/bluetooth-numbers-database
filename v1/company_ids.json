@@ -4001,5 +4001,18 @@
     { "code": 4262, "name": "Lightnovo ApS" },
     { "code": 4263, "name": "Pedigree Technologies, LLC" },
     { "code": 4264, "name": "Zhejiang Wanyou Intelligent Technology Co., Ltd." },
+    { "code": 4265, "name": "Mallow" },
+    { "code": 4266, "name": "Sigenergy Technology Co., Ltd." },
+    { "code": 4267, "name": "ObjectSpectrum, LLC" },
+    { "code": 4268, "name": "ATsens Co.,Ltd." },
+    { "code": 4269, "name": "CoreHW Semiconductor Oy" },
+    { "code": 4270, "name": "Raycon Inc." },
+    { "code": 4271, "name": "Hangzhou SDIC Microelectronics Inc." },
+    { "code": 4272, "name": "VSC Synapse LLC" },
+    { "code": 4273, "name": "Senops Tracker, LLC" },
+    { "code": 4274, "name": "Shenzhen Xunzong Zhilian Technology Co., Ltd." },
+    { "code": 4275, "name": "HOSEOTELNET Co., Ltd." },
+    { "code": 4276, "name": "Solabs Technology (HK) Co., Limited" },
+    { "code": 4277, "name": "SpartanLync Technologies Corp." },
     { "code": 65535, "name": "Bluetooth SIG Specification Reserved Default Vendor ID for Remote Devices Without Device ID Service Record." }
 ]
