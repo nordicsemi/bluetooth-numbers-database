@@ -78,3 +78,13 @@ Appearance is a new addition to this database prompted by user [eriklins](https:
 | ------|------|----------| --- |
 | value | `Integer` | Decimal value identifying the sub-category within a parent category, corresponding to the reversed bits 5 to 0 from Appearance Data | **Yes** |
 | name | `String` | Name of the Sub-Category | **Yes** |
+
+## Special Thanks
+
+On behalf of Nordic and all the maintainers of this repo, we'd like to [thank all contributors](https://github.com/nordicsemi/bluetooth-numbers-database/graphs/contributors) for all of their contributions throughout these years. This project took off far more than any of us could've predicted.
+
+<a href="https://github.com/nordicsemi/bluetooth-numbers-database/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=nordicsemi/bluetooth-numbers-database" />
+</a>
+
+If you'd like to contribute yourself, please have a look at the [Rules & Contributions](https://github.com/nordicsemi/bluetooth-numbers-database?tab=contributing-ov-file) section. It's very easy to join!
