@@ -65,6 +65,7 @@
     { "name": "Electronic Shelf Label", "identifier": "org.bluetooth.service.electronic_shelf_label", "uuid": "1857", "source": "gss" },
     { "name": "Gaming Audio", "identifier": "org.bluetooth.service.gaming_audio", "uuid": "1858", "source": "gss" },
     { "name": "Mesh Proxy Solicitation", "identifier": "org.bluetooth.service.mesh_proxy_solicitation", "uuid": "1859", "source": "gss" },
+    { "name": "Ranging Service (RAS)", "identifier": "org.bluetooth.service.ras", "uuid": "185B", "source": "gss" },
 
     { "name": "Signify Netherlands B.V. (formerly Philips Lighting) Service", "identifier": "com.philips-hue.service.signify_netherlands", "uuid": "FE0F" , "source": "philips-hue"},
 

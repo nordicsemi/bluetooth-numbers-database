@@ -469,6 +469,12 @@
     { "name": "BGS Features", "identifier": "org.bluetooth.characteristic.bgs_features", "uuid": "2C03", "source": "gss" },
     { "name": "BGR Features", "identifier": "org.bluetooth.characteristic.bgr_features", "uuid": "2C04", "source": "gss" },
     { "name": "Percentage 8 Steps", "identifier": "org.bluetooth.characteristic.percentage_8_steps", "uuid": "2C05", "source": "gss" },
+    { "name": "RAS Features Characteristic", "identifier": "org.bluetooth.characteristic.ras.features", "uuid": "2C14", "source": "gss" },
+    { "name": "Real-time Ranging Data Characteristic", "identifier": "org.bluetooth.characteristic.ras.realtime_rd", "uuid": "2C15", "source": "gss" },
+    { "name": "On-demand Ranging Data Characteristic", "identifier": "org.bluetooth.characteristic.ras.ondemand_rd", "uuid": "2C16", "source": "gss" },
+    { "name": "RAS Control Point Characteristic", "identifier": "org.bluetooth.characteristic.ras.cp", "uuid": "2C17", "source": "gss" },
+    { "name": "Ranging Data Ready Characteristic", "identifier": "org.bluetooth.characteristic.ras.rd_ready", "uuid": "2C18", "source": "gss" },
+    { "name": "Ranging Data Overwritten Characteristic", "identifier": "org.bluetooth.characteristic.ras.rd_overwritten", "uuid": "2C19", "source": "gss" },
 
     { "name": "Blinky Button State", "identifier": "com.nordicsemi.characteristic.blinky.button_state", "uuid": "00001524-1212-EFDE-1523-785FEABCD123" , "source": "nordic"},
     { "name": "Blinky LED State", "identifier": "com.nordicsemi.characteristic.blinky.led_state", "uuid": "00001525-1212-EFDE-1523-785FEABCD123" , "source": "nordic"},
