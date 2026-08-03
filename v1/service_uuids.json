@@ -107,7 +107,7 @@
     { "name": "Eddystone Configuration Service", "identifier": "com.google.service.eddystone.configuration", "uuid": "A3C87500-8ED3-4BDF-8A39-A01BEBEDE295" , "source": "google"},
 
     { "name": "Fast Pair Service", "identifier": "com.google.service.fast_pair", "uuid": "FE2C" , "source": "google"},
-
+    
     { "name": "Legacy DFU Service", "identifier": "com.nordicsemi.service.dfu.legacy", "uuid": "00001530-1212-EFDE-1523-785FEABCD123" , "source": "nordic"},
     { "name": "Secure DFU Service", "identifier": "com.nordicsemi.service.dfu.secure", "uuid": "FE59" , "source": "nordic"},
     { "name": "Experimental Buttonless DFU Service", "identifier": "com.nordicsemi.service.dfu.buttonless_experimental", "uuid": "8E400001-F315-4F60-9FB8-838830DAEA50" , "source": "nordic"},
@@ -115,6 +115,7 @@
 
     { "name": "Edge Impulse Remote Management Service", "identifier": "com.nordicsemi.service.edge_impulse", "uuid": "E2A00001-EC31-4EC3-A97A-1C34D87E9878" , "source": "nordic"},
 
+    { "name": "Location Enabled Advertisement Service", "identifier": "com.apple.service.location_enabled_advertisement", "uuid": "FCB2", "source": "apple"},
     { "name": "Exposure Notification Service", "identifier": "com.apple.service.contacttracing", "uuid": "FD6F" , "source": "apple"},
 
     { "name": "SMP Service", "identifier": "io.runtime.mcumgr.ble.smp", "uuid": "8D53DC1D-1DB7-4CD3-868B-8A527460AA84" , "source": "apache"},
